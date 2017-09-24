@@ -27,4 +27,6 @@ const router = new VueRouter({
 ### also check [FirstRoute.js](https://github.com/MicroDreamIT/vueRouter-multi-routesFile/blob/master/FirstRoute.js)
 ### also check [SecondRoute.js](https://github.com/MicroDreamIT/vueRouter-multi-routesFile/blob/master/SecondRoute.js)
 
+###### :warning: Syntax is Es-6
+
 ###### developed and tested on [shapecss](https://shapecss.com)
