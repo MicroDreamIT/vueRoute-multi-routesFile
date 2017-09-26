@@ -1,8 +1,9 @@
 # vue-Router for multiple routes files
-vue route multiple routes file for large project
+### vue route multiple routes file for large project
+This is just a basic structure managing multiple route files so that you can structure and organize your project.  
 
 
-#Main entry file
+# Main entry file
 ```
 window.Vue = require('vue');
 
